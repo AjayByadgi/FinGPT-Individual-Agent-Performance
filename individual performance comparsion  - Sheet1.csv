@@ -1,0 +1,250 @@
+Y = Yahoo finance Specific,B = bloomberg specific,,"E = Easy, D = Difficult",,,,,,,,,,,
+,,Webpage questions ,,gpt-3.5,gpt-4o,agent w/ gpt-4o,agent w/ gpt-3.5-turbo,Quantitative Questions,,agent w/ gpt-4o ,agent w/ gpt-3.5-turbo,gpt-4o ,gpt-3.5,
+D,Y,Summarize the page ,,0,0,1,1,What's the price of apple stock?,,1,1,0.5,0,E
+D,B,Summarize the page ,,0,0,1,1,What is the earnings per share (EPS)  Proctor and Gamble,,1,0.5,0,0,E
+E,Y,What is the price of gold?,,0,0,1,1,What's the price of tesla stock?,,1,1,0,0,E
+E,Y,What is the price of S and P 500 ? ,,0.5,0.5,1,1,What's the price of BTC?,,1,1,0.5,0.5,E
+E,Y, What is the price of Dow 30? ,,0,0.5,1,1,What's the price of gamestop stock?,,1,1,0,0,E
+E,Y,What is the price of Crude Oil? ,,0,0,1,1,What's the price of NVIDIA stock ? ,,1,1,0.5,0,E
+E,Y,What is the price of Nasdaq ? ,,0,0,1,1,What is the price of Microsoft Stock?,,1,1,0.5,0,E
+E,Y,What is the price of Russell 2000? ,,0.5,0,1,1,what is the discounted cash flow of apple,,1,1,0,0,D
+D,Y,Explain this article  ( Tesla stock notches 10th consecutive day of gains as investors eye growth potential),,0,0.5,1,1,What is the earnings per share (EPS) of Apple?,,1,1,0,0.5,D
+E,Y,What is BTC at?,,0,0,1,1,What is the earnings per share (EPS) of Tesla?,,1,1,0.5,0.5,D
+E,Y,What is the price of IBRX?,,0,0,0.5,0.5,What is the earnings per share ( EPS ) of meta,,1,1,0,0,D
+E,Y,What is ETH at?,,0,0,1,1,What is the earnings per share (EPS) of NVIDIA?,,1,1,0.5,0,D
+D,B," How much did a NYC penthouse recently sell for?
+",,0,0.5,1,1,What is the earnings per share (EPS) of Gamestop?,,1,1,0.5,0.5,D
+D,B,"What's the latest news in signapore?
+",,0,0.5,1,1,What is the earnings per share (EPS) of Microsoft?,,1,1,0.5,0.5,D
+D,B,"How many gallons was the spillage in houston?
+",,0,0.5,1,1,What is the net income of Apple for the previous fiscal year?,,1,0.5,0.5,0,E
+E,B," What's the price of the FTSE 100
+",,0.5,0,1,1,What is the net income of Tesla for the previous fiscal year?,,0.5,0,0.5,0.5,E
+D,B,"How much money did Musk beat in the severance suit over twitter layoff?
+",,0,0,1,1,What is the net income of NVIDIA for the previous fiscal year?,,1,0.5,0.5,0.5,E
+D,B,"Did apple see a positive gain as quarterly personal computer shipments jump?
+",,0,1,1,1,What is the net income of Gamestop for the previous fiscal year?,,1,1,0.5,0.5,E
+E,B,"How much money did the US open the competetion for chip packaging research?
+",,0,0.5,1,1,What is the net income of Microsoft for the previous fiscal year?,,0.5,0,0.5,0,E
+D,B,How much monetary boost did Africa receive as UN agency backs startup hubs,,0.5,0,1,1,What is the P/E ratio for Apple?,,1,1,0.5,0,D
+D,B,"What did Netflix, paramamount ask the canada court to do?
+",,0,0.5,1,1,What is the P/E ratio for Microsoft?,,1,1,0,0,D
+D,B,"How much is canada investing to build chip network
+",,0.5,0.5,0.5,0.5,What is the P/E ratio for Gamestop?,,1,0.5,0.5,0.5,D
+D,B,"How much did Amazon recently hit in value?
+",,0.5,0.5,1,0.5,What is the P/E ratio for Tesla?,,1,1,0,0,D
+E,B,"How is Hungary's CPI
+",,0,0,1,1,What is the P/E ratio for NVIDIA?,,1,1,0.5,0.5,D
+E,Y,What is the price of FTSE 100,,0,0,1,1,What is the price of Amazon stock?,,1,1,0.5,0,E
+E,Y,What is the current value of the S&P 500 index?,,0,0.5,1,0,What is the price of Walmart stock?,,1,1,0.5,0.5,E
+E,Y,By what percentage is the Nasdaq index up?,,0.5,0,1,1,What is the price of Proctor and Gamble stock?,,1,1,0,0,E
+E,Y,What is the current yield of the US 10 Year Treasury bond?,,0,0,1,1,What is the P/E ratio for Amazon?,,0.5,0.5,0,0,D
+D,Y,"Has the price of crude oil increased or decreased, and by how much?",,0,0,1,1,What is the P/E ratio for Walmart?,,1,0.5,0.5,0,D
+E,Y,What is the current price of gold and by what percentage has it changed?,,0,0,1,1,What is the P/E ratio for Proctor and Gamble?,,1,1,0,0,D
+E,Y,What is the exchange rate for the Euro against the US Dollar?,,0.5,0,1,1,What is the net income of Amazon for the previous fiscal year?,,1,1,0,0.5,E
+D,Y,How much has the Pound/Dollar exchange rate changed?,,0,0.5,1,1,What is the net income of Walmart for the previous fiscal year?,,1,1,0.5,0,E
+E,Y,How much has Kamala Harris raised in her campaign fundraising in the first week?,,0,0,1,1,What is the net income of Proctor and Gamble for the previous fiscal year?,,1,1,0.5,0,E
+D,Y,Who are the top contenders for Harris' running mate according to the article?,,0,0.5,0.5,0.5,What is the earnings per share (EPS) of Amazon?,,1,1,0,0,D
+D,Y,What is Harris' current favorability rating in the ABC News/Ipsos poll?,,0,0,1,1,What is the earnings per share (EPS) of Walmart?,,1,1,0,0.5,D
+D,Y,What is Janet Yellen's stance on the argument that a strong dollar hurts US manufacturing?,,0,0.5,1,1,What is the earnings per share (EPS) of Proctor and Gamble?,,0.5,0.5,0,0.5,D
+D,Y,Which company’s intelligence feature is expected to miss the initial launch of iOS 18?,,0,0,1,0.5,What is the discounted cash flow of Amazon?,,1,1,0.5,0,D
+D,Y,What milestone has Apple reached in the US regarding retail union contracts?,,0,0.5,0.5,1,What is the discounted cash flow of Walmart?,,1,1,0.5,0.5,D
+D,Y,Who are the key political figures in the upcoming Venezuelan elections?,,0.5,0,1,1,What is the discounted cash flow of Proctor and Gamble?,,1,0.5,0.5,0,D
+D,Y,What recent warning has Vladimir Putin issued related to US missiles in Germany?,,0,0,1,1,What is the price of Intel stock?,,1,1,0,0,E
+D,Y,What significant economic reform plan did Ethiopia announce regarding its currency?,,0,1,1,1,What is the price of AMD stock?,,0.5,1,0.5,0,E
+D,Y,What recent financial action has been taken regarding Libya after the 2023 floods?,,0,0.5,1,1,What is the price of Facebook stock?,,1,1,0,0.5,E
+D,Y,What is the main reason for Joe Rogan's influence in the comedy industry in Austin?,,0.5,0,1,1,What is the P/E ratio for Intel?,,1,1,0,0,D
+D,Y,"How is Disney planning to counter ""superhero fatigue"" according to Bloomberg Businessweek?",,0,0.5,1,0.5,What is the P/E ratio for AMD?,,1,0.5,0.5,0.5,D
+D,Y,What alarming business problem did Roblox face recently?,,0.5,0,1,1,What is the price of IBM stock?,,1,1,0,0,E
+E,B,What is the current value of the Nasdaq?,,0.5,0,1,1,What is the price of Disney stock?,,0.5,0.5,0,0,E
+E,B,What is the S&P 500 currently trading at?,,0,0.5,1,1,What is the price of Coca-Cola stock?,,1,1,0.5,0,E
+E,B,What is the current yield of the US 10-Year Treasury note?,,0,0,1,1,What is the P/E ratio for IBM?,,1,0.5,0.5,0.5,D
+E,B,How is the FTSE 100 performing?,,0,0,1,0.5,What is the P/E ratio for Disney?,,0.5,1,0,0,D
+E,B,What is the current price of Crude Oil?,,0.5,0,1,1,What is the P/E ratio for Coca-Cola?,,1,0.5,0.5,0,D
+E,B,How much is Gold trading at right now?,,0,0,1,1,What is the earnings per share (EPS) of IBM?,,1,0.5,0,0,D
+E,B,What is the current exchange rate for the Euro to the US Dollar?,,0,1,0,1,What is the earnings per share (EPS) of Disney?,,1,0.5,0.5,0,D
+E,B,What is the current exchange rate for the British Pound to the US Dollar?,,0,0.5,1,0.5,What is the earnings per share (EPS) of Coca-Cola?,,1,1,0.5,0.5,D
+E,B,What major event is traders focusing on regarding global monetary policy this week?,,0.5,0,1,1,What is the net income of IBM for the previous fiscal year?,,1,1,0,0.5,E
+D,B,Has Big Tech positively influenced US stock performance before the earnings report?,,0,0.5,1,1,What is the net income of Disney for the previous fiscal year?,,1,1,0.5,0,E
+D,B,What recent prediction have bond traders made about Federal Reserve rate cuts?,,0,0,1,1,What is the net income of Coca-Cola for the previous fiscal year?,,1,1,0,0,E
+D,B,How many years has it been since Treasuries last saw a winning streak like the current one?,,0,0.5,1,1,What is the current yield on a 30-Year US Treasury bond?,,0.5,1,0.5,0.5,D
+D,B,What significant action has Donald Trump pledged regarding the SEC and the US crypto industry?,,0,0,1,1,What is the recent trading volume for Apple stock?,,1,1,0,0.5,E
+D,B,What recent election results are in dispute regarding Venezuela?,,0,0,1,1,What is the latest price of platinum?,,1,1,0.5,0,E
+D,B,What recent challenge is McDonald’s facing that has impacted sales?,,0,0.5,1,1,What is the latest value of the Shanghai Composite Index?,,0.5,1,0,0,E
+D,B,What recent news has come out about Kamala Harris and the 2024 election?,,0,0,1,1,What is the current price of Copper?,,1,1,0.5,0.5,E
+D,B,How is the Canadian military preparing for potential future challenges?,,0.5,0,1,1,What is the current exchange rate for the Canadian Dollar against the US Dollar?,,1,0,0,0,E
+D,B,What is the current status of tensions and conflicts involving Israel?,,0,0,0.5,0.5,What is the current price of Natural Gas?,,1,1,0.5,0,E
+D,B,How have recent acts of sabotage disrupted internet services in France?,,0,0.5,1,1,What is the current price of Ethereum?,,1,1,0,0,E
+E,Y,How did Nvidia stock (NVDA) perform today?,,0.5,0,1,1,What is the current market cap of Apple?,,1,1,0.5,0.5,E
+E,Y,When are Microsoft's earnings expected to be reported?,,0,0.5,1,1,What is the 52-week high price of Tesla stock?,,1,1,0.5,0,D
+D,Y,How are job openings currently trending in the job market?,,0,0,1,1,What is the annual dividend yield for Microsoft?,,1,1,0.5,0,D
+D,Y,What are Wall Street's expectations for AMD's upcoming earnings?,,0,0.5,0.5,0.5,What is the current yield on a 10-year US Treasury bond?,,0.5,1,0.5,0.5,D
+E,Y,What upcoming event is NBCUniversal set to achieve a record in?,,0,0,1,1,What is the price-to-book ratio of NVIDIA?,,1,1,0.5,0.5,D
+E,Y,Who issued a recent warning about traditional retirement savings plans (401(k)s and IRAs)?,,0,0.5,1,1,What is the latest price of Gold per ounce?,,1,1,0,0,E
+E,Y,Who mentioned that millions of 401(k)s and IRAs will be 'toast'?,,0,0,1,0.5,What is the trailing P/E ratio for Amazon?,,1,1,0.5,0,D
+D,Y,What is the median household income in the U.S. for 2022?,,0,0.5,0.5,1,What is the 1-year return percentage for Facebook stock?,,1,1,0.5,0,D
+E,Y,What income level is required to be considered 'upper class' in 2024?,,0.5,0,1,1,What is the current price of crude oil per barrel?,,1,1,0.5,0,E
+D,Y,"How much has Actelis Networks, Inc. (ASNS) stock changed today?",,0,0,1,1,What is the most recent closing price of IBM stock?,,1,1,0.5,0,E
+E,Y,What is the current value for Gold Dec 24 futures (GCZ24.CMX)?,,0,1,1,1,What is the price-to-earnings (P/E) ratio for Coca-Cola?,,1,1,0.5,0.5,D
+E,Y,What is the price change for Gold Dec 24 futures today?,,0,0.5,1,1,What is the beta value of AMD stock?,,1,0.5,0,0.5,D
+E,Y,What is the current value of Crude Oil Sep 24 futures (CLU24.NYM)?,,0.5,0,1,1,What is the quarterly revenue of Procter & Gamble?,,0.5,0.5,0,0.5,D
+D,Y,How much has Apple Inc. (AAPL) stock changed today?,,0,0.5,1,0.5,What is the 5-year compound annual growth rate (CAGR) for Apple stock?,,0.5,0.5,0.5,0.5,D
+D,Y,What is AMD's expected area for growth according to Wall Street?,,0.5,0,1,1,What is the current price of natural gas per therm?,,1,1,0.5,0.5,E
+D,Y,How much has Nvidia stock (NVDA) dropped ahead of Big Tech earnings?,,0.5,0,1,1,What is the 52-week low price of Tesla stock?,,1,1,0.5,0.5,D
+D,Y,What significant statement did Elon Musk make about Nvidia?,,0,0.5,1,1,What is the recent percentage change in the Dow Jones Industrial Average?,,1,1,0.5,0.5,E
+D,Y,What tips does the travel expert provide ahead of hurricane season?,,0,0,1,1,What is the price-to-earnings (P/E) ratio for Walmart?,,1,1,0.5,0.5,D
+D,Y,How impactful can brand deals be at the Olympics according to Yahoo Finance Video?,,0,0,1,0.5,What is the price of silver per ounce?,,1,1,0,0.5,E
+D,Y,How are the markets expected to react to the upcoming Big Tech earnings?,,0.5,0,1,1,What is the recent trading volume of Intel stock?,,1,1,0.5,0.5,E
+E,Y,What income makes you upper class according to the U.S. Census Bureau?,,0,0,1,1,What is the book value per share of Microsoft?,,1,1,0.5,0.5,D
+E,Y,What is the current sentiment around pending Federal Reserve rate cuts?,,0,1,0,1,What is the 30-day volatility index (VIX) value?,,0.5,1,0.5,0,D
+D,Y,What did the recent chart analysis by Yahoo Finance indicate about the economy?,,0,0.5,1,0.5,What is the current price of Bitcoin Cash?,,1,1,0.5,0,E
+D,Y,What changes are notable in current U.S. labor market conditions?,,0.5,0,1,1,What is the revenue growth rate of Disney for the last fiscal year?,,1,0.5,0.5,0,D
+E,Y,Who is the author of 'Rich Dad Poor Dad' who issued a warning about retirement savings plans?,,0,0.5,1,1,What is the latest price of palladium per ounce?,,1,1,0.5,0,E
+E,Y,How are semiconductor stocks performing today according to Yahoo Finance?,,0,0,1,1,What is the return on equity (ROE) for NVIDIA?,,1,1,0.5,0,D
+D,Y,What changes have been seen in the median household income in recent years?,,0,0.5,1,1,What is the market capitalization of AMD?,,1,1,0,0,E
+E,Y,What company is associated with the symbol ASNS?,,0,0,1,1,What is the 3-month percentage change for Google stock?,,1,1,0.5,0,E
+D,Y,What is the most significant shift in the stock indices mentioned on this page?,,0,0,1,1,What is the current price of Litecoin?,,1,1,0,0.5,E
+D,Y,What specific predictions does Robert Kiyosaki make about the S&P?,,0.5,0,1,1,What is the forward P/E ratio for Netflix?,,1,1,0,0.5,D
+E,Y,How does the performance of Russell 2000 compare to other indices today?,,0,0.5,1,1,What is the 12-month average price of Gold?,,1,1,0.5,0.5,E
+E,Y,What comment did Elon Musk make about Nvidia?,,0,0,1,1,What is the latest price of Brent Crude Oil?,,1,1,0.5,0.5,E
+E,Y,Which indices are showing a positive change today?,,0,0.5,0.5,0.5,What is the latest yield on a 5-year US Treasury bond?,,0.5,1,0,0,D
+D,Y,What are some signs of labor market turbulence mentioned?,,0,0,1,1,What is the 1-year performance percentage of Procter & Gamble stock?,,0.5,0.5,0,0,D
+E,Y,What is the most recent percentage change for the Nasdaq index?,,0,0.5,1,1,What is the current exchange rate for the Euro against the US Dollar?,,1,0.5,0,0,E
+D,Y,How does today's crude oil price compare to its previous value?,,0,0,1,0.5,What is the latest price of Soybeans per bushel?,,1,1,0,0,E
+E,Y,What is Nvidia’s current stock price from the web page?,,0,0.5,0.5,1,What is the latest market cap of Google?,,1,1,0.5,0.5,E
+D,Y,What insights are provided on AMD's focus on AI growth?,,0.5,0,1,1,What is the annual dividend of Johnson & Johnson?,,1,1,0.5,0.5,D
+D,Y,What are some major expected impacts of Microsoft's earnings report?,,0,0,1,1,What is the 6-month volatility of the S&P 500 index?,,0.5,1,0.5,0.5,D
+E,Y,What are the top gainers listed in the market today?,,0,1,1,1,What is the 52-week high for Gold?,,1,1,0.5,0.5,E
+E,Y,What are the top losers listed in the market today?,,0,0.5,1,1,What is the quarterly earnings report of Ford Motor Company?,,1,0.5,0,0,D
+D,Y,What factors are influencing the drop in Nasdaq index values?,,0.5,0,1,1,What is the trailing P/E ratio of Adobe?,,1,1,0,0,D
+D,Y,How significant are the brand deals at the Olympics according to Yahoo Finance?,,0,0.5,1,0.5,What is the recent percentage change in the Russell 2000 Index?,,1,1,0,0,E
+D,Y,What predictions are being made regarding federal rate cuts?,,0.5,0,1,1,,,,,,,
+D,Y,What recent changes have been noted in job openings?,,0.5,0,1,1,,,,,,,
+E,Y,How did the price of gold change today?,,0,0.5,1,1,,,,,,,
+E,Y,What symbol represents Crude Oil in the futures market on this page?,,0,0,1,1,,,,,,,
+E,Y,What advice is given for financial preparations ahead of the hurricane season?,,0,0,1,0.5,,,,,,,
+E,Y,What revenue record is NBCUniversal expected to break?,,0.5,0,1,1,,,,,,,
+D,B,What is the latest update on Hezbollah's commander targeted in an Israeli strike?,,0.5,0,1,1,,,,,,,
+D,B,What is the context of Kamala Harris surpassing Trump in swing state polls?,,0,1,0,1,,,,,,,
+E,B,What role does Kamala Harris have in immigration policy according to Republicans?,,0.5,0.5,1,1,,,,,,,
+D,B,Who is María Corina Machado in the context of Venezuelan politics?,,0,0,1,1,,,,,,,
+E,B,What was the reported growth rate for Microsoft's Azure in the latest quarter?,,0,0.5,1,1,,,,,,,
+E,B,How did Starbucks perform in terms of sales in the US and China?,,0.5,0,1,1,,,,,,,
+D,B,Why did AMD provide an upbeat sales forecast?,,0,0.5,1,1,,,,,,,
+D,B,How are fake job interviews connected to securities fraud?,,0,0,1,1,,,,,,,
+D,B,What is Josh Shapiro's political background and potential role with Harris?,,0,0,1,0.5,,,,,,,
+D,B,How is Trump's stance on Bitcoin characterized?,,0,0,1,1,,,,,,,
+D,B,"How might an activist impact Starbucks’ business strategy, according to Bloomberg Opinion?",,0,0.5,1,1,,,,,,,
+E,B,What occurred during the protest against Venezuela's election results?,,0,0,1,1,,,,,,,
+D,B,How is Ken Griffin shaping the Republican Party?,,0,0.5,0.5,0.5,,,,,,,
+E,B,What advice did Geithner and Paulson give regarding the US fiscal deficit?,,0,0,1,1,,,,,,,
+D,B,How has the performance of Nvidia affected the stock market recently?,,0,0.5,1,1,,,,,,,
+D,B,Why is Biden adviser Dunn leaving the White House?,,0,0,1,0.5,,,,,,,
+E,B,How did Match Group perform in terms of Tinder users?,,0,0.5,1,1,,,,,,,
+E,B,What is Pinterest's revenue forecast for the current quarter?,,0.5,0,1,1,,,,,,,
+D,B,How has NBCUniversal's advertising sales for the Paris Olympics compared historically?,,0,0,1,1,,,,,,,
+D,B,What is notable about power plant payouts in the US's biggest grid?,,0,1,1,1,,,,,,,
+D,B,How does the Bloomberg Businessweek article describe the last American antislavery campaign?,,0,0.5,1,1,,,,,,,
+E,B,"What are the new food delivery services in New York, and are they worth it?",,0.5,0,1,1,,,,,,,
+E,B,Which country is considered the best for remote workers according to a new report?,,0,0.5,1,0.5,,,,,,,
+E,B,What did US women's gymnastics achieve at the Paris Olympics?,,0.5,0,1,1,,,,,,,
+D,B,What happened in a recent Secret Service shooting incident involving Trump?,,0.5,0,0.5,1,,,,,,,
+D,B,What challenges does Paris face in cleaning up its shipbreaking industry?,,0,0.5,1,1,,,,,,,
+D,B,How has Starbucks’ business strategy been critiqued by Bloomberg Opinion?,,0,0,1,1,,,,,,,
+D,B,"How has the US power grid become a mess, and what are the implications?",,0,0,1,0.5,,,,,,,
+D,B,How did Venezuela’s post-election turmoil affect creditors?,,0.5,0,1,1,,,,,,,
+E,B,What is SpaceX’s current status with the Falcon 9 rocket?,,0,0,1,1,,,,,,,
+E,B,What was the outcome of Roblox's predator problem investigation?,,0,1,0,1,,,,,,,
+D,B,How is China's economy being described in terms of its recent shifts?,,0,0.5,1,1,,,,,,,
+D,B,What is Christian Monterrosa's outlook on Florida hurricanes’ impact on state reinsurers?,,0.5,0,1,1,,,,,,,
+D,B,"What challenges do French farmers face in their harvest, seeking state aid?",,0,0.5,1,0.5,,,,,,,
+D,B,What is the significance of Enzo Fernandez's clearance by Chelsea in lieu of a chant controversy?,,0,0,1,1,,,,,,,
+D,B,How has the labor market changed during Biden's presidency?,,0,0.5,1,1,,,,,,,
+D,B,What are the implications of Ethiopia's IMF program on the World Bank package?,,0,0,1,1,,,,,,,
+E,B,How did Starbucks’ recent sales performance impact the stock market?,,0,0,1,1,,,,,,,
+E,Y,"What were the closing prices for S&P Futures, Dow Futures, and Nasdaq Futures?",,0,0.5,1,1,,,,,,,
+E,Y,How did Crude Oil and Gold prices perform recently?,,0.5,0,1,1,,,,,,,
+D,Y,What was the primary reason for Microsoft's stock tumble?,,0,0.5,1,0.5,,,,,,,
+D,Y,Why did Nasdaq sink and Nvidia drop 7%?,,0,0,1,1,,,,,,,
+E,Y,What was AMD's performance after its earnings report?,,0,0,1,0.5,,,,,,,
+E,Y,What is the 'Trump Dump' and its impact on certain stocks?,,0,0,1,1,,,,,,,
+E,Y,What strategy does the analyst recommend for Starbucks to improve its business?,,0,0.5,1,1,,,,,,,
+D,Y,How is AI currently described by the Futurum Group CEO?,,0,0,0.5,1,,,,,,,
+D,Y,What are the key economic insights provided by Yahoo Finance charts?,,0,0.5,1,1,,,,,,,
+D,Y,What are some factors making a case for a Fed rate cut?,,0,0,1,1,,,,,,,
+D,Y,What are the travel expert's three tips ahead of the hurricane season?,,0,0.5,1,1,,,,,,,
+D,Y,What are three reasons not to buy gas at Costco according to Motley Fool?,,0,0,1,0.5,,,,,,,
+E,Y,Why is Intel planning to cut thousands of jobs?,,0.5,0.5,1,1,,,,,,,
+D,Y,What was significant about Microsoft’s latest AI disappointment?,,0,0,1,1,,,,,,,
+D,Y,How did the tech stock market respond to Microsoft's cloud revenue results?,,0,0,1,1,,,,,,,
+D,Y,What does Reuters say about Microsoft’s slow cloud growth and AI payoff timeline?,,0,1,1,1,,,,,,,
+E,Y,What is the current price of Apple Inc. stock?,,0,0.5,1,1,,,,,,,
+E,Y,"How did Actelis Networks, Inc. perform recently?",,0.5,0,1,0.5,,,,,,,
+E,Y,What is the latest trading price for the December 2024 Gold contract?,,0,0.5,1,1,,,,,,,
+E,Y,How did the Crude Oil September 2024 contract perform recently?,,0.5,0,1,1,,,,,,,
+D,Y,What are some of the most active stocks currently listed?,,0.5,0,0.5,1,,,,,,,
+D,Y,Which stocks are top gainers and why?,,0,0.5,1,1,,,,,,,
+D,Y,Which stocks are trending as losers and why?,,0,0,1,1,,,,,,,
+E,Y,What are the top mutual funds listed currently?,,0,0,1,0.5,,,,,,,
+E,Y,What are the top ETFs recently and their performance?,,0.5,0,1,1,,,,,,,
+E,Y,What are the current exchange rates for major currencies?,,0,0,1,1,,,,,,,
+D,Y,What notable futures contracts are listed and their latest performance?,,0,1,1,0.5,,,,,,,
+E,Y,Which options have the highest open interest currently?,,0,0.5,1,1,,,,,,,
+E,Y,Which options are showing the highest implied volatility at the moment?,,0.5,0,1,1,,,,,,,
+D,Y,What are the latest major headlines impacting the financial markets today?,,0,0.5,1,1,,,,,,,
+D,B,"What are the Golan Heights, and why are they disputed?",,0,0,1,1,,,,,,,
+D,B,What recent issues have shaken Israel's war unity?,,0,0.5,1,1,,,,,,,
+E,B,How did Microsoft's Azure cloud-computing service perform in the latest quarter?,,0,0,1,1,,,,,,,
+D,B,How did AMD's stock react to demand for AI chips?,,0,0,1,1,,,,,,,
+D,B,Why is Intel planning to cut thousands of jobs?,,0.5,0,1,1,,,,,,,
+D,B,What does Jessica Karl's column say about the Astor Place Starbucks?,,0,0.5,1,0.5,,,,,,,
+D,B,Why are fake job interviews considered securities fraud?,,0.5,0,0,1,,,,,,,
+D,B,What is Matt Levine's take on fake job interviews being securities fraud?,,0.5,0,0.5,1,,,,,,,
+D,B,What potential role could Josh Shapiro have with Kamala Harris?,,0,0.5,1,1,,,,,,,
+E,B,How does Lionel Laurent characterize Trump's embrace of Bitcoin?,,0,0,1,1,,,,,,,
+D,B,What were the main claims of Venezuela's opposition amid Caracas protests?,,0,0,1,0.5,,,,,,,
+D,B,What actions did Venezuela's government take post-election?,,0.5,0,1,1,,,,,,,
+E,B,What is the Fed expected to do regarding interest rates in the upcoming meeting?,,0,0,1,1,,,,,,,
+E,B,What record did NBCUniversal achieve with ad sales at the Paris Olympics?,,0,1,0,1,,,,,,,
+D,B,How did the US Women’s Gymnastics Team perform at the Paris Olympics?,,0,0.5,1,1,,,,,,,
+D,B,What influenced Samsung's profit surge after a chip arm recovery?,,0.5,0,1,1,,,,,,,
+E,B,How did Japan’s industrial output perform recently?,,0,0.5,1,0.5,,,,,,,
+E,B,What is Nouriel Roubini planning with his first ETF?,,0,0,1,1,,,,,,,
+E,B,What scandal is Singapore dealing with in terms of nickel trading?,,0,0.5,1,1,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,0.1171875,0.2265625,0.9453125,0.9140625,,,0.9296875,0.84375,0.28125,0.1796875,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,count_diff_web,count_diff_gen,count_bloom,,,,,,,,,,,
+,88,54,89,,,,,,,,,,,
+,112,53,111,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,overall,easy,difficult,,,,overall,easy,difficult,,,,
+,yahoo finance specific avg for agent w/ 3.5,0.90625,0.9196428571,0.8888888889,,bloomberg finance specific avg for agent w/ 3.5,,0.9193548387,0.9375,0.9122807018,,,,
+,yahoo finance specific avg for agent w/ 4o,0.9677419355,0.9553571429,0.9444444444,,bloomberg finance specific avg for agent w/ 4o,,0.935483871,0.90625,0.9210526316,,,,
+,yahoo finance specific avg 3.5,0.1129032258,0.125,0.1181818182,,bloomberg finance specific avg  3.5,,0.1290322581,0.140625,0.1140350877,,,,
+,yahoo finance specific avg 4o,0.1935483871,0.2232142857,0.2272727273,,bloomberg finance specific avg 4o,,0.2580645161,0.234375,0.2543859649,,,,
