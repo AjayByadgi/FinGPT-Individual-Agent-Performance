@@ -1,0 +1,214 @@
+ESMA,,,,,EMIR,,,,,Link Retrieval ,,,NER,FinGPT Agent
+abbreviations,FinGPT Agent,definitions,FinGPT Agent,,abbreviations,FinGPT Agent,definitions,FinGPT Agent,,Laws,FinGPT Agent,,"Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”) entered into force on 16 August 2012.",1
+AIF,1,technical support,1,,EMIR,1,technical support,1,,(EU) 2019/834,1,,Most of the obligations under EMIR needed to be specified further via regulatory technical standards and they will take effect following the entry into force of the technical standards.,1
+AIFM,1,national authority,1,,SFTR,1,national authority,1,,(EU) No 1095/2010,1,,On 19 December 2012 the European Commission adopted without modifications the regulatory technical standards developed by ESMA.,1
+AIFMD,1,Union funds,1,,RTS on reporting,1,Union funds,1,,(EU) No 1247/2012,1,,These technical standards were published in the Official Journal on 23 February 2013 and en- tered into force on 15 March 2013.,1
+CCP,1,international organisation,1,,ITS on reporting,1,international organisation,1,,(EU) No 1248/2012,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”);",1
+CSD,1,international organisation,1,,RTS on registration,1,international organisation,1,,(EU) No 1249/2012,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1247/2012 of 19 December 2012 laying down implementing technical standards with regard to the format and fre- quency of trade reports to trade repositories according to Regulation (EU) No 648/2012;",1
+CICI,1,European Semester for economic policy coordination,1,,RTS on data quality,1,European Semester for economic policy coordination,1,,(EU) No 148/2013,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1248/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of appli- cations for registration of trade repositories according to Regulation (EU) No 648/2012;",1
+CT,0,country-specific recommendations,1,,RTS on data access,1,country-specific recommendations,1,,(EU) No 149/2013,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Implementing Regulation (EU) No 1249/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of the rec- ords to be maintained by central counterparties according to Regulation (EU) No 648/2012;",1
+EMIR,1,the rule of law,1,,RTS on organisation requirements,1,the rule of law,1,,(EU) No 150/2013,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 148/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on the minimum details of the data to be reported to trade repositories;",1
+ESMA,1,government entity,1,,CFI code,1,government entity,1,,(EU) No 151/2013,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 149/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on indirect clearing arrangements, the clearing obligation, the public register, access to a trading venue, non-financial counterparties, and risk mitigation tech- niques for OTC derivatives contracts not cleared by a CCP;",1
+ETD,1,selected obliged entity,1,,CM,1,selected obliged entity,1,,(EU) No 152/2013,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 150/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the details of the application for registration as a trade repository;",1
+FC,1,non-selected obliged entity,1,,CP,0,non-selected obliged entity,1,,(EU) No 153/2013,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 151/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the data to be published and made available by trade repositories and operational standards for aggregating, comparing and accessing the data;",1
+FC+,0,AML/CFT supervisory system,1,,CP on RTS/ITS,1,AML/CFT supervisory system,1,,(EU) No 2015/2205,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 152/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on capital requirements for central counterparties;",0
+FX,1,non-AML/CFT authority,1,,FR on RTS/ITS,0,non-AML/CFT authority,1,,(EU) No 2017/2155,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on requirements for central counterparties;",1
+ITS,1,crypto-asset,1,,CPMI,1,crypto-asset,1,,(EU) No 285/2014,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Commission Delegated Regulation (EU) No 2017/2155 of 22 September 2017 amending Delegated Regulation (EU) No 149/2013 with regards to regulatory tech- nical standards on indirect clearing arrangements.",1
+ITS on reporting to TR,0,electronic money token,1,,EC,1,electronic money token,1,,(EU) No 648/2012,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+- The derivative is concluded on 1 June 2018;
+- notional of the contract: 1M€;
+- maturity date of the contract: 31 December 2018;
+- the swap is physically settled;
+- Bank A sells EUR and gets GBP for the near leg (and delivers GBP and receives EUR for
+the far leg);
+- the exchange rate of the near leg is 0.88 EUR/GBP, while the exchange rate of the far leg
+is 0.865 EUR/GBP;
+- the two settlement dates are 01/08/2018 and 02/01/2019.",1
+MiFID,1,crypto-asset exposure,1,,ECB,1,crypto-asset exposure,1,,1 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+When can counterparties start notifying the national competent authorities (NCAs) of their intention to apply the reporting exemption in accordance with Article 9(1) EMIR, as amended by Regulation 2019/834?",1
+MTF,1,traditional asset,1,,EEA,1,traditional asset,1,,11 of EMIR,0,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+On which day does the three-month period referred to in Article 9(1) EMIR, as amended by Regu- lation 2019/834, start?
+",1
+NCA,1,tokenised traditional asset,1,,ERR,0,tokenised traditional asset,1,,12 of the RTS on OTC derivatives,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+From and until when is the reporting exemption valid in accordance with Article 9(1) EMIR, as amended by Regulation 2019/834?
+",1
+NFC,0,centralised information system,1,,ESCB,1,centralised information system,1,,12(4) of the RTS on OTC derivatives,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The FC belongs to both a group of undertakings referred to in Article 3(1) or Article 80(7) and (8) of Directive 2006/48/EC (CRD), and another group referred to in Articles 1 and 2 of Directive 83/349/EEC, and",1
+NFC+,1,communication software,1,,EU,1,communication software,1,,13 of the RTS on OTC derivatives,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+It could be challenging for a counterparty performing calculations a few days after the end of the previous month to calculate and use the month-end position of that month. For that reason, the counterparty could calculate with the 12-month period that started a month earlier and ended with the previous month- end. E.g. if a counterparty is performing calculations on 1 November 2019 and encounters difficulties with calculating its positions using the figures from 1 November 2018 to 31 October 2019, it can use a 12-month period ending on the previous month: from 1 October 2018 to 30 September 2019.",0
+NFC-,0,money laundering,1,,FIRDS,1,money laundering,1,,14 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository to which a request under Article 8 of Implementing Regulation (EU) 2022/1860 is addressed shall identify the outstanding derivatives referred to in paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860 at the time of the corporate restructuring event, where the entity is reported with the identifier used before the corporate restructuring event in the field ‘Counterparty 1’ or ‘Counterparty 2’, as informed in the relevant request. It shall replace the old identifier with the new Legal Entity Identifier (‘LEI’) in the reports relating to all those derivatives at the time of the event referred to in Article 8 of Implementing Regulation (EU) 2022/1860 pertaining to that counterparty. A trade repository shall perform the procedure on the update of the identifier at the latest on the day of restructuring or within 30 calendar days as of receipt of the request if reported less than 30 calendar days prior to the date of the corporate restructuring event.",1
+OTC,1,terrorist financing,1,,FSB,1,terrorist financing,1,,14 of EMIR 11(1) of RTS on CCP requirements,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository shall identify the relevant derivatives referred to in paragraph 2 of Article 2 of Implementing Regulation (EU) 2022/1860 at the time of the corporate restructuring event, where the entity is identified with the old identifier in any of the fields, and replace that identifier with the new LEI. Where a corporate restructuring event relates to an update of the LEI for fields other than ‘Counterparty 1’ or ‘Counterparty 2’, the trade repository shall perform such an update of the relevant derivatives only following a timely confirmation by counterparty 1 or the entity responsible for reporting.",1
+Q&A,1,criminal activity’,1,,IOSCO,1,criminal activity’,1,,14 of the RTS on OTC derivatives,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A trade repository shall carry out the following actions: broadcast the following information at the earliest possibility, and no later than 5 working days after the complete notification is received, to all the other trade repositories and to the reporting counterparties, report submitting entities, entities responsible for reporting involved in the derivatives contracts concerned by the LEI update, and to third parties which have been granted access to information under Article 78(7) of Regulation (EU) No 648/2012, as applicable:",1
+RTS,1,credit institution,1,,ISIN,1,credit institution,1,,15 of the RTS on OTC derivatives,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+If a counterparty notifies ESMA and the relevant NCAs that it is above the clearing thresholds or that it has not calculated its positions against the clearing thresholds, it will become subject to the clearing obligation and will have to start clearing OTC derivative contracts (pertaining to a class of OTC derivatives which is subject to the clearing obligation) entered into or novated more than 4 months following such notification (i.e. entered into or novated on the first day following the end of this 4-month period or afterwards, for instance; for a notification on 15 January, the trades entered into or novated on 16 May or afterwards). If during this 4-month period, the counterparty demonstrates in accordance with Article 4a(2) and Article10(2) of EMIR for FCs and NFCs respectively to the relevant NCAs that it is below the clearing thresholds and notifies ESMA and the relevant NCAs accordingly, it will no longer be subject to the clearing obligation and will not have to start clearing at the end of the 4-month period.",1
+RTS on OTC Derivatives,0,financial institution,1,,LEI,1,financial institution,1,,16 of EMIR,0,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+find the average of the total amount across the 12 months by dividing that number by 12 for each asset class;",1
+RTS on CCP,0,crypto-asset services,1,,ISO,1,crypto-asset services,1,,18 of EMIR,0,,"A is an NFC
+• B is an NFC in the same group as A, and B is the entity specialised in dealing derivatives with
+entities outside the group
+• A and B enter into an OTC derivative transaction, with a notional value of 100, e.g. A buys 100
+and B sells 100
+• B enters into an opposite transaction with an entity outside the group (C), i.e. B buys 100 from
+C.",1
+RTS on Third Country contracts,0,crypto-asset service provider,1,,MIC,1,crypto-asset service provider,1,,2 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+300, if the transaction between A and B does not satisfy the hedging conditions with respect to A, i.e. 100 for the buy transaction between A and B, 100 for the sell transaction between B and A, and 100 for the buy transaction between B and C.",1
+RTS on IRS in G4 currencies,0,financial mixed activity holding company,1,,NCA,1,financial mixed activity holding company,1,,2 of RTS on IRS in G4 currencies,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ if a counterparty is performing calculations on 1 November 2019 and encounters difficulties with calculating its positions using the figures from 1 November 2018 to 31 October 2019, it can use a 12-month period ending on the previous month: from 1 October 2018 to 30 September 2019.",1
+SPV,1,trust or company service provider,1,,OJ,1,trust or company service provider,1,,2 of RTS on Third Country contracts,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ESMA is of the view that in the case of AIFs the exemption for intragroup transactions should be construed narrowly, and that in most cases it will not be possible for the exemption to be used. An AIF can only make use of the exemption for intragroup transactions if it has been established to form part of the same group (as defined in Article 2(16) of EMIR) as the counterparty to the OTC derivative contract and if it fulfils all the criteria for intragroup transactions set out in Article 3(2)(a)(i)(iv), (b), or (d) of EMIR.",1
+TR,1,gambling service,1,,RSE,0,gambling service,1,,2(10) and 89 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+15 December 2014 (yearly requirement) if the NFC- is still a NFC- on 15 December 2013, and if the number of its outstanding contracts with Counterparty X was below 100 at all time during the previous reconciliation period, i.e. from 15 September 2013 to 15 December
+2013. This should be assessed on the reconciliation date, i.e. on 15 December 2013.",1
+UTI,1,crowdfunding intermediary,1,,SWIFT,1,crowdfunding intermediary,1,,26 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+the position as defined in Article 26 of the RTS on CCP require- ments, respecting at least the confidence intervals of 99,5% for OTC derivatives and 99% for other financial instruments.",1
+EMIR ,1,establishment’,0,,TR,1,establishment’,0,,28 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Article45(2)ofCommissionDelegatedReg- ulation (EU) No 153/2013 states that “not less than 95% of such cash” shall be deposited through “arrangements that ensure the collateralisation of the cash with highly liquid financial instru- ments...”",1
+SFTR ,1,business relationship,1,,UTI,1,business relationship,1,,"3, 4(2), 11(6) to 11(10) of EMIR",1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Article 45(2) of Commission Delegated Regulation (EU) No 153/2013 (RTS on CCP require- ments) provides that where cash is deposited other than with a central bank in accordance with Article 47(4), and is maintained overnight, then not less than 95% of such cash must be depos- ited through arrangements",1
+RTS on reporting  ,1,linked transactions,1,,XML,1,linked transactions,1,,35 of RTS on CCP requirement,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The size of the additional contribution is limited to a pre-defined monetary amount (e.g. an as- sessment of up to EUR XX million per clearing member)?",1
+ITS on reporting  ,1,third country,1,,XSD,1,third country,1,,38 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The variation margin reduction is limited to a pre-defined monetary amount (e.g. an assess- ment of up to EUR XX million per clearing member)?",1
+RTS on registration ,1,correspondent relationship,1,,ESRB,1,correspondent relationship,1,,39 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops so that the VM requirement of A is reduced to 9.8 million. However, the MTA is set at 500,000.",1
+RTS on data quality ,1,shell institution,1,,UCITS,1,shell institution,1,,4 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops further and A needs to return additionally 1.8 million VM back to B. The total amount of VM returned by A is 2 million (0.2 million + 1.8 million).",1
+RTS on data access ,1,anonymity-enhancing coins,1,,EBA,1,anonymity-enhancing coins,1,,"41 of EMIR
+27(3) of RTS on CCP requirements",0,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ Due to valuation of the contract15 B has to provide 10 million as VM to A.",1
+RTS on organisation requirements ,1,virtual IBAN,1,,EIOPA,1,virtual IBAN,1,,42 of EMIR,0,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract rises and A receives 5 million VM from B.",1
+CFI code ,1,Legal Entity Identifier,1,,TFEU,1,Legal Entity Identifier,1,,43(3) and 48(2) of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The valuation of the contract drops again and turns negative for A. Therefore A has to provide 20 million VM to B.",1
+CM ,0,beneficial owner,1,,IORP,1,beneficial owner,1,,45(4) of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+A partially sells the contract and receives 5 million VM back from B.",1
+CP,0,express trust,1,,AIF,1,express trust,1,,46 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Counterparty 1 concludes a new trade 789 with the Counterparty 2 with quantity 5000. The trade in compressed into the existing position ABCD on the same day. Hence, the trade is reported by the Counterparty 1 on the following day with Action type “Position component” (“P”).",1
+CP on RTS/ITS ,1,objects of a power,1,,AIFM,1,objects of a power,1,,37 of RTS on CCP requirements,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Upon compression, trade 789 is included into the position ABCD. This is reported on the following day as modification of the position by increase in the quantity from 10 000 to 15 000.
+",1
+FR on RTS/ITS ,0,default taker,1,,AIFMD,1,default taker,1,,47 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+Another trade between the counterparties with quantity 7.000 takes place on 28.08.2015 and is compressed into the existing position. Counterparty reports the conclusion and compression of the trade using the Action type “Position component”.
+",1
+CPMI ,1,legal arrangement,1,,CCP,1,legal arrangement,1,,48 of EMIR,0,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+The position is modified by increase in the quantity from 15 000 to 22 000 28.08.2015. The modification is reported on the following day.",1
+EC,1,management body,1,,CSD,1,management body,1,,49 of EMIR ,0,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+On 29.08.2015 the total of 22.000 quantity is sold. The new transaction is also netted into the position on the same day. Accordingly, the counterparty reports the transaction with Action type “Position component” (“P) and indicating it is a “Sell”.",1
+ECB ,1,management body in its management function,1,,CICI,1,management body in its management function,1,,4a and 10 of EMIR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+No new trades are concluded on 30-31.09.2015. Given that the position has not been terminated, Counterparty submits only the Valuation reports, with valuation and collateral amounts equal to zero.
+",1
+EEA ,1,management body in its supervisory function’,1,,CT,1,management body in its supervisory function’,1,,5 of the ITS on reporting to TR,1,,"Given the following text, only list the following for each: specific Organizations, Legislations, Dates, Monetary Values, and Statistics
+ On 01.09.2015 a new trade with quantity 300 takes place between the same counterparties and is compressed into the previous position.",1
+ERR ,0,senior management,1,,EMIR,1,senior management,1,,56 of EMIR,1,,,0.9591836735
+ESCB ,1,group,1,,ESMA,1,group,1,,6 of EMIR,0,,,
+EU ,1,Overall performance,0.98,,ETD,1,Overall performance,0.98,,81 of EMIR,0,,,
+FIRDS ,1,,,,FC,1,,,,9 of EMIR,0,,,
+FSB ,1,,,,FC+,0,,,,Art 2.1 of RTS on Third Country contracts,1,,,
+IOSCO ,1,,,,FX,1,,,,Article 10 of EMIR,0,,,
+ISIN ,1,,,,MiFID,1,,,,Article 16 of the ESMA Regulation,0,,,
+LEI ,1,,,,MTF,1,,,,Article 19(6) of Directive 2004/39/EC,0,,,
+ISO ,1,,,,NCA,1,,,,Article 2(3)(g) of AIFMD,0,,,
+MIC ,1,,,,NFC,1,,,,Article 2(7) of EMIR,0,,,
+NCA ,1,,,,NFC+,1,,,,Article 2(8) of EMIR,1,,,
+OJ ,1,,,,NFC-,0,,,,Article 29(2) of the ESMA Regulation,0,,,
+RSE ,0,,,,OTC,1,,,,Article 2a of EMIR,0,,,
+SWIFT ,1,,,,Q&A,1,,,,Article 3(2) of the AIFMD,1,,,
+TR ,1,,,,RTS,1,,,,Article 4(1)(14) of Directive 2004/39/EC,1,,,
+UTI ,1,,,,SPV,1,,,,Article 4(1)(b)(ii) of EMIR,1,,,
+XML ,1,,,,TR,1,,,,Article 4(2)(b) of RTS 2017/2155 amending RTS 149/2013,1,,,
+XSD ,1,,,,UTI,1,,,,Article 4(3) of EMIR,0,,,
+ESRB,1,,,,DORA,1,,,,Article 4(4) of EMIR and Article 2 RTS on OTC derivatives,0,,,
+UCITS,1,,,,ESA,1,,,,Article 4(9) of MiFID,1,,,
+EBA,1,,,,TPP,1,,,,Article 42 of the AIFMD,1,,,
+EIOPA,1,,,,TPRM,1,,,,Article 4a(2) and Article10(2) for FCs and NFCs,1,,,
+TFEU,1,,,,CSP,1,,,,Article 4a(3) and Article 10(3) of EMIR,1,,,
+IORP,1,,,,CTPPs,1,,,,Article 61(3) of AIFMD,1,,,
+AIF,1,,,,JOF,0,,,,Article 61(4) of AIFMD,0,,,
+AIFM,1,,,,NIS2,1,,,,Article 9(1) of EMIR,0,,,
+AIFMD,1,,,,PSD2,0,,,,Articles 9(1b) to (1d) EMIR,1,,,
+CCP,1,,,,CSIRTs,0,,,,Directive 2006/48/EC,1,,,
+CSD,1,,,,ENISA,1,,,,Directive 2006/49/EC,1,,,
+CICI,0,,,,PSTN,1,,,,Directive 2011/61/EU,1,,,
+CT,0,,,,POTS,1,,,,Directive 2011/61/EU,1,,,
+EMIR,1,,,,TLPT,1,,,,Directive 83/349/EEC,1,,,
+ESMA,1,,,,G-SIIs,1,,,,European Commission FAQ no. 14,0,,,
+ETD,0,,,,O-SIIs,1,,,,Guideline and Recommendation 3(b)(v),1,,,
+FC,0,,,,BIA,1,,,,Article 1(c) of the Commission Delegated Regulation,1,,,
+FC+,0,,,,JON,1,,,,article 13(2) of EMIR,0,,,
+FX,1,,,,EGBPI,0,,,,article 16b(5) of the ESMA Regulation,0,,,
+MiFID,1,,,,RSB,1,,,,EMIR Article 11(2),1,,,
+MTF,0,,,,SFD,1,,,,Article 4(1)(b)(ii) of EMIR,1,,,
+NCA ,0,,,,MFF,1,,,,Article 4(2)(b) of RTS 2017/2155,1,,,
+NFC,0,,,,OLAF,1,,,,Article 4(4)(b) of the Indirect Clearing RTS,1,,,
+NFC+,0,,,,CIISI-EU,0,,,,(EU) No 285/2014,1,,,
+NFC-,0,,,,CSIRTS,1,,,,Article 46(1) of EMIR,1,,,
+OTC,0,,,,T2S,1,,,,Articles 48(5) of EMIR,0,,,
+Q&A,1,,,,TIPS,1,,,,Articles 48(6) of EMIR,0,,,
+RTS,1,,,,FMIs,1,,,,Article 39(7) of EMIR,0,,,
+SPV,1,,,,SSM,1,,,,Article 47(3) of EMIR,1,,,
+TR ,1,,,,TIBER-EU,1,,,,Settlement Finality Directive (98/26/EC),0,,,
+UTI ,1,,,,TCT,1,,,,Article 47 Model Validation (of the Commission delegated Regulation,0,,,
+DORA,1,,,,DOI,0,,,,Commission Delegated Regulation No 2013/153,1,,,
+ESA,1,,,,DG AGRI,1,,,,Recital 13 of Commission Delegated Regulation No 2013/153,0,,,
+TPP,1,,,,EGTOP,1,,,,Commission Regulation (EC) No 1126/2008,1,,,
+TPRM,1,,,,SCA,0,,,,,0.7,,,
+CSP,1,,,,INSEE,1,,,,,,,,
+CTPPs,0,,,,RRF,1,,,,,,,,
+JOF,0,,,,SDGs,1,,,,,,,,
+NIS2,0,,,,RP,0,,,,,,,,
+PSD2,1,,,,EMU,1,,,,,,,,
+CSIRTs,1,,,,CSOs,1,,,,,,,,
+ENISA,1,,,,NRRPs,1,,,,,,,,
+PSTN,1,,,,OCS,0,,,,,,,,
+POTS,1,,,,EPPO,1,,,,,,,,
+TLPT,1,,,,CPSR,1,,,,,,,,
+G-SIIs,1,,,,DCMA,0,,,,,,,,
+O-SIIs,1,,,,ACO,0,,,,,,,,
+BIA,0,,,,CAR,1,,,,,,,,
+JON,1,,,,CAP,1,,,,,,,,
+EGBPI,1,,,,Overall performance,0.852173913,,,,,,,,
+RSB,1,,,,,,,,,,,,,
+SFD,1,,,,,,,,,,,,,
+MFF,1,,,,,,,,,,,,,
+OLAF,1,,,,,,,,,,,,,
+CIISI-EU,1,,,,,,,,,,,,,
+CSIRTS,1,,,,,,,,,,,,,
+T2S,1,,,,,,,,,,,,,
+TIPS,1,,,,,,,,,,,,,
+FMIs,1,,,,,,,,,,,,,
+SSM,1,,,,,,,,,,,,,
+TIBER-EU,1,,,,,,,,,,,,,
+TCT,1,,,,,,,,,,,,,
+DOI,1,,,,,,,,,,,,,
+DG AGRI,1,,,,,,,,,,,,,
+EGTOP,1,,,,,,,,,,,,,
+SCA,1,,,,,,,,,,,,,
+INSEE,1,,,,,,,,,,,,,
+RRF,1,,,,,,,,,,,,,
+SDGs,1,,,,,,,,,,,,,
+RP,1,,,,,,,,,,,,,
+EMU,1,,,,,,,,,,,,,
+CSOs,1,,,,,,,,,,,,,
+NRRPs,1,,,,,,,,,,,,,
+OCS,1,,,,,,,,,,,,,
+EPPO,1,,,,,,,,,,,,,
+CPSR,1,,,,,,,,,,,,,
+DCMA,1,,,,,,,,,,,,,
+ACO,1,,,,,,,,,,,,,
+CAR,1,,,,,,,,,,,,,
+CAP,1,,,,,,,,,,,,,
+Overall performance,0.801369863,,,,,,,,,,,,,
